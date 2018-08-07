@@ -13,7 +13,7 @@ Renato Teixeira,
 Rita Negreiros, 
 Thiago Aramaki, 
 Vinícius Coutinho, 
-Vitor Cavalcante, 	
+Vitor Cavalcanti, 	
 
 
 ### **Exercício 3**
