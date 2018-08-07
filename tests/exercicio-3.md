@@ -35,7 +35,7 @@ Vitor Cavalcanti,
 
     Apesar da descrição das etapas ser apresentada em um fluxo sequencial, os processos são realizados de forma iterativa, ou seja, o projeto é dividido em ciclos, e todas etapas são realizadas a cada ciclo até a última release.
 
-2. Quais são os seus objetivos básicos? 
+2. **Quais são os seus objetivos básicos?**
    
     - Este processo deve abranger, entre outros, os seguintes objetivos:
     - Efetuar o correto entendimento do micro-universo do problema em questão;
@@ -45,7 +45,7 @@ Vitor Cavalcanti,
     - Homologar/testar o software em sua completude e
     - Entregar um software eficaz e de qualidade.
 
-3. Qual a sua importância para a qualidade dos produtos de software?
+3. **Qual a sua importância para a qualidade dos produtos de software?**
 
     A preocupação com a qualidade em todas as fases do desenvolvimento do software é de extrema importância para a conclusão do processo, cada etapa deve ser executada seguindo as boas práticas já estabelecidas no mercado. Existem algumas normal para auxiliar neste processo, como por exemplo a ABNT NBR ISO/IEC 29110.
 
