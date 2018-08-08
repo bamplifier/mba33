@@ -2,21 +2,21 @@
 
 ### **Alunos**
 
-Alexandre Menezes, 
-Edimar Barbosa,
-Felipe Guizarra, 
-Gelson Henrique, 
-Javan Torres,
-Julio Cesar, 
-Leonardo Freire, 
-Luis Cesar Costa, 
-Marcos Dantas, 
-Renato Teixeira, 
-Rita Negreiros, 
-Thiago Aramaki, 
-Vinícius Coutinho, 
-Vitor Cavalcanti, 	
-Yago Paiva,
+**Alexandre** Menezes Martins Júnior, 
+**Edimar** Barbosa Miranda Junior,
+**Felipe** Guizarra da Silva, 
+**Gelson** Henrique Silva Balbino, 
+**Javan** de Mesquita Torres,
+**Julio** Cesar Lima Da Silva, 
+**Leonardo** Ferreira da Silva Freire, 
+**Luis** Cesar Costa, 
+**Marcos** Dantas Cunha, 
+**Renato** Afonso Teixeira, 
+**Rita** de Cássia Castro de Mendonça Negreiros, 
+**Thiago** Lessa Aramaki, 
+**Vinicius** Andre Ferreira Coutinho, 
+**Vitor** Cavalcanti, 	
+**Yago** Paiva Barboza da Silva.
 
 
 ### **Exercício 3**
