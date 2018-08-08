@@ -14,6 +14,7 @@
 **Marcos** Dantas Cunha, 
 **Matheus** Navega de Brito,
 **Renato** Afonso Teixeira, 
+**Rodrigo** Alexander Silva de Oliveira,
 **Rita** de Cássia Castro de Mendonça Negreiros, 
 **Thiago** Lessa Aramaki, 
 **Vinicius** Andre Ferreira Coutinho, 
