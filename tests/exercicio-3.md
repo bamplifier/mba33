@@ -12,6 +12,7 @@
 **Leonardo** Ferreira da Silva Freire, 
 **Luis** Cesar Costa, 
 **Marcos** Dantas Cunha, 
+**Matheus** Navega de Brito,
 **Renato** Afonso Teixeira, 
 **Rita** de Cássia Castro de Mendonça Negreiros, 
 **Thiago** Lessa Aramaki, 
