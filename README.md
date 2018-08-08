@@ -7,6 +7,9 @@ José Motta
 
 ## Notícias
 
+- 8/8: **Alunos chegou o dia!** Aguardo suas respostas ainda hoje! Obrigado pelo esforço que todos fizeram para completar os exercícios e projetos. O trabalho em equipe para construção do exercício-3 reflete bem o fluxo de trabalho e o comportamento de equipes de desenvolvimento que produzem hoje os melhores softwares. Vejam o [histórico](https://github.com/bamplifier/mba33/blob/master/history.png) produzido no github, obtido com o comando `gitk`. Obrigado ao git-master-plus Leonardo pelo valioso suporte à turma! :thumbsup: 
+- Recomendo também essa [apresentação da Michele Bustamante](https://dockercon2018.hubs.vidyard.com/watch/oLM5RTGc5MFJK24FXhRAZR) sobre microservices com docker que mostra a importância do DDD (domain-driven-design) na evolução das arquiteturas atuais. 
+	
 - 2/8: **Parabéns** pela participação de todos nas discussões sobre os projetos IoT em nossa aula de ontem. Aguardo os documentos com as conclusões de cada um até a próxima quarta, 8/8. Por favor, publiquem as respostas em seus respectivos folders em nosso repo.
 	- Deem preferência a formatos renderizados adequadamente no Github, como `.md` e `.pdf`. Para aqueles que fizeram arquivos MS Word, só precisa salvar/exportar como `.pdf` no mesmo local.
 - 24/7: **Vejam o exercício final do curso**! Entrega e apresentação no dia 1/8. O material gerado no [Projeto IoT](https://github.com/bamplifier/mba33/blob/master/refs/story-X-projeto-iot.pdf "Projeto IoT") deve ser publicado no folder `tests` do repositório Github, conforme o respectivo `id` do aluno.
