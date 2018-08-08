@@ -144,3 +144,9 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Framework: Java EE, JSF, EJB, Spring, Struts, Hibernate
 - Linguagens: Java, JavaScript, SQL
 - Github: [https://github.com/lenocampos](https://github.com/lenocampos)
+
+- Nome: Rodrigo Alexander Silva de Oliveira
+- Educ: Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Framework: EntityFramework, Ionic Framework(1 e 3), Angular
+- Linguagens: Java, JavaScript, SQL, C#, VB
+- Github: [https://github.com/raso03031983]
