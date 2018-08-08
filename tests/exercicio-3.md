@@ -50,17 +50,13 @@ Yago Paiva,
 
 3. **Qual a sua importância para a qualidade dos produtos de software?**
 
-    A preocupação com a qualidade em todas as fases do desenvolvimento do software é de extrema importância para a conclusão do processo, cada etapa deve ser executada seguindo as boas práticas já estabelecidas no mercado. Existem algumas normal para auxiliar neste processo, como por exemplo a ABNT NBR ISO/IEC 29110.
-
-    É de extrema importância que códigos escritos para o software sejam desenvolvidos seguindo os padrões de projetos(Design Patterns) já conhecidos no mercado, permitindo assim que o software seja testável, tenha uma fácil manutenibilidade e seja escalável.
-
-    Um processo de desenvolvimento de software de qualidade, aumenta muito as chances de um cliente satisfeito.
+    É de vital importância que o produto gerado esteja de acordo com o solicitado pelo cliente e que atenda as suas necessidades, portanto o processo de desenvolvimento de software ajuda a alcançar esses objetivos através dos seus controles em cada etapa de criação do produto.
 
 
 ### **Referências**
 
 - Resposta 1: [Thiago Aramaki](https://github.com/bamplifier/mba33/blob/master/tests/ThiagoAramaki/exercicio-3.md)
 - Resposta 2: [Alexandre Menezes](https://github.com/bamplifier/mba33/blob/master/tests/alexmmjr/exercicio-2.md)
-- Respsota 3: [Leonardo Freire](https://github.com/bamplifier/mba33/blob/master/tests/lfreire80/exercicio-2.md)
+- Respsota 3: [Renato Teixeira](https://github.com/bamplifier/mba33/blob/master/tests/rateixeira/exercicio-2.md)
 
 
