@@ -132,6 +132,13 @@ O exercício para todos os alunos consiste em editar este arquivo e adicionar se
 - Github: [https://github.com/PaivaYago](https://github.com/PaivaYago)
 
 ---
+- Nome: Gilson Modesto da Silva Ferreira
+- Educ: Sistemas de Informações
+- Framework: Spring, Angular
+- Linguagens: Java
+- Github: [https://github.com/modestogilson](https://github.com/modestogilson)
+
+---
 - Nome: Leno Campos Lima
 - Educ: Bacharel Sistemas de Informação
 - Framework: Java EE, JSF, EJB, Spring, Struts, Hibernate
