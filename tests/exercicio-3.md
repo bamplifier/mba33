@@ -3,9 +3,11 @@
 ### **Alunos**
 
 Alexandre Menezes, 
+Edimar Barbosa,
 Felipe Guizarra, 
-Julio Cesar, 
 Gelson Henrique, 
+Javan Torres,
+Julio Cesar, 
 Leonardo Freire, 
 Luis Cesar Costa, 
 Marcos Dantas, 
@@ -14,6 +16,7 @@ Rita Negreiros,
 Thiago Aramaki, 
 Vinícius Coutinho, 
 Vitor Cavalcanti, 	
+Yago Paiva,
 
 
 ### **Exercício 3**
