@@ -6,6 +6,7 @@
 **Edimar** Barbosa Miranda Junior,
 **Felipe** Guizarra da Silva, 
 **Gelson** Henrique Silva Balbino, 
+**Gilson** Modesto da Silva Ferreira,
 **Javan** de Mesquita Torres,
 **Julio** Cesar Lima Da Silva, 
 **Leonardo** Ferreira da Silva Freire, 
