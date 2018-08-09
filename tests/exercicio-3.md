@@ -17,6 +17,7 @@
 **Rodrigo** Alexander Silva de Oliveira,
 **Rita** de Cássia Castro de Mendonça Negreiros, 
 **Thiago** Lessa Aramaki, 
+**Thiago** Mesquita Machado,
 **Vinicius** Andre Ferreira Coutinho, 
 **Vitor** Cavalcanti, 	
 **Yago** Paiva Barboza da Silva.
